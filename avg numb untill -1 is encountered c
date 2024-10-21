@@ -18,7 +18,7 @@ sum += n;
 count ++;
 }
 if(count == 0) {
-printf("Aayush, please enter the numbers.\n");
+printf("Jeanne, please enter the numbers.\n");
 }
 else{
         double average = sum / count;  
